@@ -2,4 +2,4 @@
 
 ![frionx's GitHub stats](https://github-readme-stats.vercel.app/api?username=frionx&show_icons=true&theme=radical)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=frionx&langs_count=5&theme=radical)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=frionx&layout=compact&langs_count=5&theme=radical)
